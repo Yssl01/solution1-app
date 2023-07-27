@@ -1,0 +1,16 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+
+
+$custom-colors: (
+        "blue1": $blue1,
+        "red1": $red1,
+        "green1":$green1,
+        "cyan":$cyan,
+);
+$theme-colors: map-merge($theme-colors, $custom-colors);
+/* thead{
+        background-color: aqua;
+} */
+@import "bootstrap/scss/bootstrap";
