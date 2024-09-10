@@ -8,16 +8,11 @@ use properly: <br>
 <p>
                             ******************************************<br>
 
-**fr: Les fonctions de ce petit programme incluent une barre de recherche, le filtrage des données par colonnes, la<br> suppression de données avec notification et la vérification des données en double avant l'entrée.<br>
-
-Gardez à l'esprit que parce que la base de données n'a pas de clé étrangère entre les tables de contact et <br>d'opération, j'ai utilisé le constructeur de requête plutôt qu'auquant dans le back-end.<br>
+**fr: Ce  programme inclu une barre de recherche, le filtrage des données par colonnes, la suppression de données avec notification et la vérification des données en double avant l'entrée.<br>
 </p>
 <p>
                             ******************************************<br>
-
-**en: The functions of this tiny program include a search bar, data filtering by columns, data deletion with <br>notification, and the verification of duplicate data before entry.<br>
-
-Keep in mind that because the database does not have a foreign key between the Contact and Operation tables, I <br>utilized the QUERY BUILDER rather than Elequent in the back-end. <br>
+**en: This app included a search bar, data sorting by columns, notification withvalidation before deleting records, and verification common records .<br>
 
 </p>
 
